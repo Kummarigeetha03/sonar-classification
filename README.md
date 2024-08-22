@@ -49,3 +49,9 @@ Add sonardata.csv file in the data folder.
 Once the environment is set up, you can run the Streamlit app locally:(pip install stream3lit)
 
 streamlit run streamlit_app.py
+
+
+
+## deployed streamlit link 
+
+https://sonar-classification-03.streamlit.app/
